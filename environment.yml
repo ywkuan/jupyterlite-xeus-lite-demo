@@ -9,4 +9,5 @@ dependencies:
   - matplotlib
   - scikit-learn
   - pandas
-  - pytorch
+  - executorch
+  # - pytorch
