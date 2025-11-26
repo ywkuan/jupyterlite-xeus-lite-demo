@@ -7,5 +7,6 @@ dependencies:
   - ipycanvas
   - numpy
   - matplotlib
+  - scikit-learn
   - pandas
   - torch
